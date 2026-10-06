@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "midterm-booking-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-06",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "midterm-db",
+      "database_id": "989424d8-299d-4e41-8da0-5dfae06fad87"
+    }
+  ]
+}
